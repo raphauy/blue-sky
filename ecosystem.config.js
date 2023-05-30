@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
       {
-        name: "tinta-planner",
+        name: "blue-sky",
         script: "pnpm",
         args: "run start -- -p 8053",
       },
